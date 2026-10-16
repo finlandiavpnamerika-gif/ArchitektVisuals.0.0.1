@@ -9,6 +9,9 @@
   "entrypoints": {
     "client": ["com.example.visuals.VisualsClient"]
   },
+  "mixins": [
+    { "config": "visualsmod.mixins.json", "environment": "client" }
+  ],
   "depends": {
     "fabricloader": ">=0.18.0",
     "minecraft": "1.21.11",
