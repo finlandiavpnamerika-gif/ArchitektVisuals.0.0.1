@@ -1,5 +1,7 @@
 {
   "key.visualsmod.menu": "Open menu",
   "key.visualsmod.zoom": "Zoom",
+  "key.visualsmod.swap": "AutoSwap: select item (in inventory)",
+  "key.visualsmod.bind": "ItemBind: select item (in inventory)",
   "key.category.visualsmod.main": "Visuals"
 }
