@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.example.visuals.mixin",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HandledScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "visualsmod-refmap.json"
+}
